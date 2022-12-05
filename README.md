@@ -5,7 +5,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/119756383/205464489-ca1fb27c-5e91-4da7-af7a-3f9c2746ab27.png)
+![screenshot](https://user-images.githubusercontent.com/119756383/205693895-e699d8a0-a45c-4ecf-a495-dfef90046a9b.png)
 
 
 ## Author
