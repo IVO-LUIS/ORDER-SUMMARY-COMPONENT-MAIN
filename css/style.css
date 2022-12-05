@@ -103,6 +103,7 @@ img {
     color: var(--Bright-blue);
     font-weight: 700;
     font-size: .875rem;
+    transition: 0.3s ease-out;
 }
 
 .btn-payment {
@@ -120,6 +121,7 @@ img {
     font-weight: 700;
     box-shadow: 0px 11px 15px -6px hsla(245, 75%, 52%, 0.712);
     cursor: pointer;
+    transition: 0.3s ease-out;
 }
 
 .btn-payment p {
@@ -127,22 +129,26 @@ img {
     font-weight: 900;
     font-size: .75rem;
     margin-bottom: 1.875rem;
+    transition: 0.3s ease-out;
 }
 
 
 .btn-payment button:hover {
     background-color: hsla(245, 75%, 52%, 0.712);
+    transition: 0.5s ease;
 }
 
 .btn-payment p:hover {
     color: var(--Dark-blue);
     cursor: pointer;
+    transition: 0.5s ease;
 }
 
 .price-right a:hover {
     cursor: pointer;
     color: hsla(245, 75%, 52%, 0.712);
     text-decoration: none;
+    transition: 0.5s ease;
 }
 
 .attribution { 
